@@ -12,8 +12,8 @@ Telco Customer Churn Dataset (Kaggle) — 7,043 customer records.
 
 What's in this repo
 Telco_Customer_Churn_Cleaned.csv — cleaned dataset used in the dashboard
-.pbix — the Power BI project file
-Dashboard_PDF_Export.pdf — static export of all dashboard pages
+Week 3 Interactive Business Intelligence Dashboard & Executive Data Storytelling — the Power BI project file
+Week 3 Interactive Business Intelligence Dashboard & Executive Data Storytelling.pdf — static export of all dashboard pages
 Executive_Insights_Report.docx — key findings, churn drivers, and recommendations
 DAX_Measures_Documentation.md — explanation of all 9 DAX measures used
 Dashboard_Documentation.md — full dashboard overview, data model, and page descriptions
